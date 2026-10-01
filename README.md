@@ -9,6 +9,11 @@
 
 ---
 
+
+<div align="center">
+  <img src="docs/banner.png" alt="GradTrackLite project banner" width="100%" />
+</div>
+
 ## Why GradTrackLite
 
 Student teams juggle a proposal, an SRS, a design doc, a final report — plus real development work. GradTrackLite pulls all of that into one dashboard:
@@ -31,6 +36,13 @@ It's deliberately minimal: one screen of teams, one detail screen, one settings 
 - 🔁 **Pull to refresh** — re-sync GitHub data on demand.
 - 🌐 **Localized** — English and Arabic (`Localizable.xcstrings`).
 - ♿️ **Accessible** — semantic labels on charts, adaptive colors for status.
+
+
+## Screenshots
+
+<div align="center">
+  <img src="docs/screenshot-teams.png" alt="Teams overview screen" width="46%" />
+</div>
 
 ## How the scores work
 
