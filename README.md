@@ -69,7 +69,7 @@ The progress rules live in `GradTrackLite/Services/ProgressRules.swift` as pure 
 ### Run it
 
 ```bash
-git clone git@github.com:drsultan2008/GradTrackLite.git
+git clone https://github.com/drsultan2008/GradTrackLite.git
 cd GradTrackLite
 open GradTrackLite.xcodeproj
 ```
