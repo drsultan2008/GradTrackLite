@@ -1,0 +1,288 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "a11y.percent" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التقدم" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Progress" } }
+      }
+    },
+    "blackboard.error.fileMissing" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تعذر تحميل بيانات Blackboard." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Blackboard data could not be loaded." } }
+      }
+    },
+    "chart.a11yLabel" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الالتزامات أسبوعياً، آخر أربعة أسابيع" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Commits per week, last four weeks" } }
+      }
+    },
+    "chart.a11yValue" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "مخطط أعمدة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Bar chart" } }
+      }
+    },
+    "chart.week" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "أسبوع" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Week" } }
+      }
+    },
+    "chart.xLabel" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الأسبوع" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Week" } }
+      }
+    },
+    "chart.yLabel" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الالتزامات" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Commits" } }
+      }
+    },
+    "detail.coding" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "البرمجة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Coding" } }
+      }
+    },
+    "detail.commitCount" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الالتزامات (28 يوماً)" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Commits (28 days)" } }
+      }
+    },
+    "detail.documentation" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التوثيق" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Documentation" } }
+      }
+    },
+    "detail.issues" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الملفات المغلقة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Issues closed" } }
+      }
+    },
+    "detail.lastCommit" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "آخر التزام" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Last commit" } }
+      }
+    },
+    "detail.loading" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "جارٍ تحميل بيانات البرمجة…" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Loading coding data…" } }
+      }
+    },
+    "detail.members" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الالتزامات لكل عضو" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Commits per member" } }
+      }
+    },
+    "detail.mergedPRs" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "طلبات السحب المدمجة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Merged pull requests" } }
+      }
+    },
+    "detail.none" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "لا شيء" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "None" } }
+      }
+    },
+    "detail.openPRs" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "طلبات السحب المفتوحة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open pull requests" } }
+      }
+    },
+    "error.ok" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "حسناً" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "OK" } }
+      }
+    },
+    "error.seedFailed" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تعذر تحميل الفرق." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Could not load teams." } }
+      }
+    },
+    "error.title" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "حدث خطأ ما" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Something went wrong" } }
+      }
+    },
+    "github.error.badStatus" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "أعاد GitHub خطأً غير متوقع." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "GitHub returned an unexpected error." } }
+      }
+    },
+    "github.error.invalidURL" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "رابط GitHub غير صالح." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Invalid GitHub URL." } }
+      }
+    },
+    "github.error.network" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "خطأ في الشبكة. يتم عرض آخر بيانات مخزنة." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Network error. Showing last cached data." } }
+      }
+    },
+    "github.error.notFound" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "المستودع غير موجود." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Repository not found." } }
+      }
+    },
+    "github.error.rateLimited" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تم بلوغ حد معدل GitHub. حاول لاحقاً." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "GitHub rate limit reached. Try again later." } }
+      }
+    },
+    "github.error.unauthorized" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "فشل مصادقة GitHub. تحقق من الرمز." } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "GitHub authentication failed. Check the token." } }
+      }
+    },
+    "milestone.design" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التصميم" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Design" } }
+      }
+    },
+    "milestone.finalReport" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التقرير النهائي" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Final Report" } }
+      }
+    },
+    "milestone.proposal" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الاقتراح" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Proposal" } }
+      }
+    },
+    "milestone.srs" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "متطلبات النظام" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "SRS" } }
+      }
+    },
+    "milestone.status.graded" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "مُقدَّر" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Graded" } }
+      }
+    },
+    "milestone.status.notSubmitted" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "لم يُقدَّم" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Not submitted" } }
+      }
+    },
+    "milestone.status.submitted" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "مقدَّم" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Submitted" } }
+      }
+    },
+    "settings.githubToken" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "رمز GitHub (اختياري)" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "GitHub token (optional)" } }
+      }
+    },
+    "settings.owner" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "المالك (مثال: apple)" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Owner (e.g. apple)" } }
+      }
+    },
+    "settings.refresh" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تحديث" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Refresh" } }
+      }
+    },
+    "settings.repo" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "اسم المستودع" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Repository name" } }
+      }
+    },
+    "settings.repos" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "روابط المستودعات" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Repository links" } }
+      }
+    },
+    "settings.title" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الإعدادات" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings" } }
+      }
+    },
+    "settings.tokenPlaceholder" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "رمز الوصول الشخصي" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Personal access token" } }
+      }
+    },
+    "team.codingLabel" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "البرمجة" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Coding" } }
+      }
+    },
+    "team.docLabel" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التوثيق" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Documentation" } }
+      }
+    },
+    "team.status.atRisk" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "في خطر" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "At risk" } }
+      }
+    },
+    "team.status.behind" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "متأخر" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Behind" } }
+      }
+    },
+    "team.status.onTrack" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "على المسار" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "On track" } }
+      }
+    },
+    "teams.empty" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "لا توجد فرق بعد" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No teams yet" } }
+      }
+    },
+    "teams.title" : {
+      "localizations" : {
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الفرق" } },
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Teams" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

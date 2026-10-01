@@ -1,0 +1,41 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "name": "Team Alpha",
+    "projectTitle": "Neural Notes App",
+    "members": ["Lina", "Omar", "Sara"],
+    "githubRepo": { "owner": "pointfreeco", "name": "swift-composable-architecture" },
+    "milestones": [
+      { "title": "proposal", "dueDateOffsetDays": -30, "status": "notSubmitted", "grade": null },
+      { "title": "srs", "dueDateOffsetDays": -10, "status": "submitted", "grade": null },
+      { "title": "design", "dueDateOffsetDays": 5, "status": "submitted", "grade": null },
+      { "title": "finalReport", "dueDateOffsetDays": 20, "status": "notSubmitted", "grade": null }
+    ]
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "name": "Team Bravo",
+    "projectTitle": "Campus Navigator",
+    "members": ["Hana", "Yousef"],
+    "githubRepo": { "owner": "Alamofire", "name": "Alamofire" },
+    "milestones": [
+      { "title": "proposal", "dueDateOffsetDays": -40, "status": "graded", "grade": 90 },
+      { "title": "srs", "dueDateOffsetDays": 3, "status": "notSubmitted", "grade": null },
+      { "title": "design", "dueDateOffsetDays": 14, "status": "notSubmitted", "grade": null },
+      { "title": "finalReport", "dueDateOffsetDays": 30, "status": "notSubmitted", "grade": null }
+    ]
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333333",
+    "name": "Team Charlie",
+    "projectTitle": "FitTrack Companion",
+    "members": ["Nour", "Khalid", "Maya", "Ziad"],
+    "githubRepo": { "owner": "apple", "name": "swift-argument-parser" },
+    "milestones": [
+      { "title": "proposal", "dueDateOffsetDays": -30, "status": "graded", "grade": 95 },
+      { "title": "srs", "dueDateOffsetDays": -16, "status": "graded", "grade": 88 },
+      { "title": "design", "dueDateOffsetDays": 2, "status": "submitted", "grade": null },
+      { "title": "finalReport", "dueDateOffsetDays": 25, "status": "notSubmitted", "grade": null }
+    ]
+  }
+]
